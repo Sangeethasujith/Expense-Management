@@ -1,0 +1,15 @@
+C:\Users\sange\source\repos\ExpenseManagement\ExpenseManagement.Infrastructure\bin\Debug\netcoreapp3.1\ExpenseManagement.Domain.dll
+C:\Users\sange\source\repos\ExpenseManagement\ExpenseManagement.Infrastructure\obj\Debug\netcoreapp3.1\ExpenseManagement.Infrastructure.csprojAssemblyReference.cache
+C:\Users\sange\source\repos\ExpenseManagement\ExpenseManagement.Infrastructure\obj\Debug\netcoreapp3.1\ExpenseManagement.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\sange\source\repos\ExpenseManagement\ExpenseManagement.Infrastructure\obj\Debug\netcoreapp3.1\ExpenseManagement.Infrastructure.AssemblyInfo.cs
+C:\Users\sange\source\repos\ExpenseManagement\ExpenseManagement.Infrastructure\bin\Debug\netcoreapp3.1\ExpenseManagement.Infrastructure.deps.json
+C:\Users\sange\source\repos\ExpenseManagement\ExpenseManagement.Infrastructure\bin\Debug\netcoreapp3.1\ExpenseManagement.Infrastructure.runtimeconfig.json
+C:\Users\sange\source\repos\ExpenseManagement\ExpenseManagement.Infrastructure\bin\Debug\netcoreapp3.1\ExpenseManagement.Infrastructure.runtimeconfig.dev.json
+C:\Users\sange\source\repos\ExpenseManagement\ExpenseManagement.Infrastructure\bin\Debug\netcoreapp3.1\ExpenseManagement.Infrastructure.dll
+C:\Users\sange\source\repos\ExpenseManagement\ExpenseManagement.Infrastructure\bin\Debug\netcoreapp3.1\ExpenseManagement.Infrastructure.pdb
+C:\Users\sange\source\repos\ExpenseManagement\ExpenseManagement.Infrastructure\bin\Debug\netcoreapp3.1\ExpenseManagement.Domain.pdb
+C:\Users\sange\source\repos\ExpenseManagement\ExpenseManagement.Infrastructure\obj\Debug\netcoreapp3.1\ExpenseManagement.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\sange\source\repos\ExpenseManagement\ExpenseManagement.Infrastructure\obj\Debug\netcoreapp3.1\ExpenseManagement.Infrastructure.csproj.CopyComplete
+C:\Users\sange\source\repos\ExpenseManagement\ExpenseManagement.Infrastructure\obj\Debug\netcoreapp3.1\ExpenseManagement.Infrastructure.dll
+C:\Users\sange\source\repos\ExpenseManagement\ExpenseManagement.Infrastructure\obj\Debug\netcoreapp3.1\ExpenseManagement.Infrastructure.pdb
+C:\Users\sange\source\repos\ExpenseManagement\ExpenseManagement.Infrastructure\obj\Debug\netcoreapp3.1\ExpenseManagement.Infrastructure.genruntimeconfig.cache

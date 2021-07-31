@@ -1,0 +1,9 @@
+C:\Users\sange\source\repos\ExpenseManagement\ExpenseManagement.Domain\bin\Debug\netcoreapp3.1\ExpenseManagement.Domain.deps.json
+C:\Users\sange\source\repos\ExpenseManagement\ExpenseManagement.Domain\bin\Debug\netcoreapp3.1\ExpenseManagement.Domain.dll
+C:\Users\sange\source\repos\ExpenseManagement\ExpenseManagement.Domain\bin\Debug\netcoreapp3.1\ExpenseManagement.Domain.pdb
+C:\Users\sange\source\repos\ExpenseManagement\ExpenseManagement.Domain\obj\Debug\netcoreapp3.1\ExpenseManagement.Domain.csprojAssemblyReference.cache
+C:\Users\sange\source\repos\ExpenseManagement\ExpenseManagement.Domain\obj\Debug\netcoreapp3.1\ExpenseManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\sange\source\repos\ExpenseManagement\ExpenseManagement.Domain\obj\Debug\netcoreapp3.1\ExpenseManagement.Domain.AssemblyInfo.cs
+C:\Users\sange\source\repos\ExpenseManagement\ExpenseManagement.Domain\obj\Debug\netcoreapp3.1\ExpenseManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\sange\source\repos\ExpenseManagement\ExpenseManagement.Domain\obj\Debug\netcoreapp3.1\ExpenseManagement.Domain.dll
+C:\Users\sange\source\repos\ExpenseManagement\ExpenseManagement.Domain\obj\Debug\netcoreapp3.1\ExpenseManagement.Domain.pdb
